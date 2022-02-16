@@ -23,7 +23,7 @@
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">background-color: #00ff00;</string>
+    <string notr="true">background-color: #dedede</string>
    </property>
    <property name="text">
     <string/>

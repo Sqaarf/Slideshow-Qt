@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file './QtDesignerComponents/ComposantTP4.ui'
+# Form implementation generated from reading ui file './QtDesignerComponents/designerDiaporama.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.4
 #
@@ -17,7 +17,7 @@ class Ui_Form(object):
         Form.resize(862, 565)
         self.mLabel = QtWidgets.QLabel(Form)
         self.mLabel.setGeometry(QtCore.QRect(10, 10, 640, 480))
-        self.mLabel.setStyleSheet("background-color: #00ff00;")
+        self.mLabel.setStyleSheet("background-color: #dedede")
         self.mLabel.setText("")
         self.mLabel.setObjectName("mLabel")
         self.horizontalLayoutWidget = QtWidgets.QWidget(Form)
